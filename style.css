@@ -1,0 +1,17 @@
+body{
+    background-color: #020202;
+}
+
+.formatacao{
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.formatacao img {
+    display: block;
+    margin: auto; 
+    max-width: 100%;
+    height: auto;
+}
